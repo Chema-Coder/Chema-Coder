@@ -2,7 +2,7 @@
 
 ---
 
-### Sobre mí 👨‍💻
+### Sobre mí 👨‍💻     [![Mi perfil de LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-valdivieso-a4b03b2ab/)
 
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), recién titulado (Junio 2025) y enfocado en una transición de carrera hacia el desarrollo de software.
 
