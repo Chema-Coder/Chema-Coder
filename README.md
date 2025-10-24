@@ -1,73 +1,48 @@
-¡Hola! 👋 Soy José María Valdivieso
-Sobre mí 👨‍💻
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), recién titulado (Junio 2025)  y enfocado en una transición de carrera hacia el desarrollo de software.
+# ¡Hola! 👋 Soy José María Valdivieso
 
+---
+
+### Sobre mí 👨‍💻
+
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), recién titulado (Junio 2025) y enfocado en una transición de carrera hacia el desarrollo de software.
 
 Mi objetivo principal es el Desarrollo Backend (Java/Spring Boot), pero con una visión Full Stack (Angular/React).
 
-¿Mi valor diferencial? Combino estas nuevas competencias técnicas con 20 años de experiencia profesional en administración, finanzas, RRHH y gestión de producción . Entiendo la "visión de negocio" (he trabajado con SAP y Salesforce ) y sé cómo construir soluciones que aportan valor real.
-
-
-
-
+¿Mi valor diferencial? Combino estas nuevas competencias técnicas con 20 años de experiencia profesional en administración, finanzas, RRHH y gestión de producción. Entiendo la "visión de negocio" (he trabajado con SAP y Salesforce) y sé cómo construir soluciones que aportan valor real.
 
 Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamente mi formación en este campo. Estoy buscando mi primera gran oportunidad para aportar esta combinación única de madurez profesional y pasión técnica.
 
+---
 
+### Mi Stack Tecnológico 🛠️
 
+* **Backend:** Java | Spring Boot
+* **Frontend:** Angular | React | JavaScript | Typescript | HTML5 | CSS3
+* **Bases de Datos:** SQL (MySQL, Oracle) | NoSQL (MongoDB, Firebase)
+* **Herramientas y Metodologías:** Git | GitHub | Jira
+* **Sistemas y Plataformas:** Linux | Salesforce | SAP (iniciado)
 
-Mi Stack Tecnológico 🛠️
+---
 
-Backend: Java  | Spring Boot 
+### Aprendizaje Activo 🌱
 
+* Finalizando la Certificación CISCO Básica de Redes.
+* Cursando la Certificación Cisco Certified Support Technician – CCST Cybersecurity.
+* Participando activamente en la JSCAMP de Infojobs por midu.dev.
+* Desarrollando mi primer portfolio de proyectos Backend con Spring Boot.
 
+---
 
+### Proyectos Destacados 🚀
 
+* **[En Desarrollo] API REST de Gestión (Nombre de tu idea):**
+    * Descripción: API RESTful construida con Spring Boot y Java para [Tu objetivo, p.ej: "gestionar un inventario simple"], conectada a una BBDD [MySQL/MongoDB].
+* **Prácticas en ZAITEC (Marzo-Junio 2025):**
+    * Descripción: Participación en el desarrollo de una APP de gestión comercial. Mi trabajo se centró en el Backend (Java), creando scripts, métodos y realizando la conexión con la Base de Datos Oracle.
 
-Frontend: Angular  | React | JavaScript  | Typescript | HTML5  | CSS3 
+---
 
+### ¿Conectamos? 📫
 
-
-
-Bases de Datos: SQL (MySQL , Oracle ) | NoSQL (MongoDB , Firebase )
-
-
-
-
-
-
-Herramientas y Metodologías: Git  | GitHub  | Jira 
-
-
-
-
-
-
-Sistemas y Plataformas: Linux  | Salesforce  | SAP (iniciado) 
-
-
-
-
-
-Aprendizaje Activo 🌱
-Finalizando la Certificación CISCO Básica de Redes.
-
-Cursando la Certificación Cisco Certified Support Technician – CCST Cybersecurity.
-
-Participando activamente en la JSCAMP de Infojobs por midu.dev.
-
-Desarrollando mi primer portfolio de proyectos Backend con Spring Boot.
-
-Proyectos Destacados 🚀
-[En Desarrollo] API REST de Gestión (Nombre de tu idea):
-
-Descripción: API RESTful construida con Spring Boot y Java para [Tu objetivo, p.ej: "gestionar un inventario simple"], conectada a una BBDD [MySQL/MongoDB].
-
-Prácticas en ZAITEC (Marzo-Junio 2025):
-
-Descripción: Participación en el desarrollo de una APP de gestión comercial. Mi trabajo se centró en el Backend (Java), creando scripts, métodos y realizando la conexión con la Base de Datos Oracle .
-
-¿Conectamos? 📫
-LinkedIn: https://www.linkedin.com/in/josé-maría-valdivieso-a4b03b2ab/
-
-Email: dragoncoredeveloper@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/josé-maría-valdivieso-a4b03b2ab/](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-valdivieso-a4b03b2ab/)
+* **Email:** [dragoncoredeveloper@gmail.com](mailto:dragoncoredeveloper@gmail.com)
