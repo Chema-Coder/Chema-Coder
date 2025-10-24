@@ -1,32 +1,62 @@
 ¡Hola! 👋 Soy José María Valdivieso
 Sobre mí 👨‍💻
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), recién titulado (Junio 2025) y enfocado en una transición de carrera hacia el desarrollo de software.
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), recién titulado (Junio 2025)  y enfocado en una transición de carrera hacia el desarrollo de software.
+
 
 Mi objetivo principal es el Desarrollo Backend (Java/Spring Boot), pero con una visión Full Stack (Angular/React).
 
-¿Mi valor diferencial? Combino estas nuevas competencias técnicas con 20 años de experiencia profesional en administración, finanzas, RRHH y gestión de producción. Entiendo la "visión de negocio" (he trabajado con SAP y Salesforce) y sé cómo construir soluciones que aportan valor real.
+¿Mi valor diferencial? Combino estas nuevas competencias técnicas con 20 años de experiencia profesional en administración, finanzas, RRHH y gestión de producción . Entiendo la "visión de negocio" (he trabajado con SAP y Salesforce ) y sé cómo construir soluciones que aportan valor real.
 
-Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamente mi formación en este campo . Estoy buscando mi primera gran oportunidad para aportar esta combinación única de madurez profesional y pasión técnica.
+
+
+
+
+Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamente mi formación en este campo. Estoy buscando mi primera gran oportunidad para aportar esta combinación única de madurez profesional y pasión técnica.
+
+
+
 
 Mi Stack Tecnológico 🛠️
-Backend: Java | Spring Boot
 
-Frontend: Angular | React | JavaScript | Typescript | HTML5 | CSS3
+Backend: Java  | Spring Boot 
 
-Bases de Datos: SQL (MySQL, Oracle) | NoSQL (MongoDB, Firebase)
 
-Herramientas y Metodologías: Git | GitHub | Jira
 
-Sistemas y Plataformas: Linux | Salesforce | SAP (iniciado)
+
+
+Frontend: Angular  | React | JavaScript  | Typescript | HTML5  | CSS3 
+
+
+
+
+Bases de Datos: SQL (MySQL , Oracle ) | NoSQL (MongoDB , Firebase )
+
+
+
+
+
+
+Herramientas y Metodologías: Git  | GitHub  | Jira 
+
+
+
+
+
+
+Sistemas y Plataformas: Linux  | Salesforce  | SAP (iniciado) 
+
+
+
+
 
 Aprendizaje Activo 🌱
-Finalizando la Certificación CISCO Básica de Redes .
+Finalizando la Certificación CISCO Básica de Redes.
 
-Cursando la Certificación Cisco Certified Support Technician – CCST Cybersecurity .
+Cursando la Certificación Cisco Certified Support Technician – CCST Cybersecurity.
 
-Participando activamente en la JSCAMP de Infojobs por midu.dev .
+Participando activamente en la JSCAMP de Infojobs por midu.dev.
 
-Desarrollando mi primer portfolio de proyectos Backend con Spring Boot .
+Desarrollando mi primer portfolio de proyectos Backend con Spring Boot.
 
 Proyectos Destacados 🚀
 [En Desarrollo] API REST de Gestión (Nombre de tu idea):
@@ -35,7 +65,7 @@ Descripción: API RESTful construida con Spring Boot y Java para [Tu objetivo, p
 
 Prácticas en ZAITEC (Marzo-Junio 2025):
 
-Descripción: Participación en el desarrollo de una APP de gestión comercial. Mi trabajo se centró en el Backend (Java), creando scripts, métodos y realizando la conexión con la Base de Datos Oracle.
+Descripción: Participación en el desarrollo de una APP de gestión comercial. Mi trabajo se centró en el Backend (Java), creando scripts, métodos y realizando la conexión con la Base de Datos Oracle .
 
 ¿Conectamos? 📫
 LinkedIn: https://www.linkedin.com/in/josé-maría-valdivieso-a4b03b2ab/
