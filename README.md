@@ -37,6 +37,9 @@ Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamen
 
 ### Proyectos Destacados 🚀
 
+* **[WP-Roadmap-Generator](https://github.com/Chema-Coder/WP-Roadmap-Generator):** Script en Bash que analiza el frontend de un sitio WordPress (theme, plugins) y genera una Hoja de Ruta técnica para su posible recreación o migración.
+
+*(Más proyectos próximamente...)*
 * **[En Desarrollo] API REST de Gestión de Agenda de Consultas en Centro de Terapias:**
     * Descripción: API RESTful construida con Spring Boot y Java para gestionar consultas, altas y anulaciones de visitas a Centro de Terapias , conectada a una BBDD 
 * **Prácticas en ZAITEC (Marzo-Junio 2025):**
