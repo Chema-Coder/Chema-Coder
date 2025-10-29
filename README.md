@@ -37,8 +37,8 @@ Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamen
 
 ### Proyectos Destacados 🚀
 
-* **[En Desarrollo] API REST de Gestión (Nombre de tu idea):**
-    * Descripción: API RESTful construida con Spring Boot y Java para [Tu objetivo, p.ej: "gestionar un inventario simple"], conectada a una BBDD [MySQL/MongoDB].
+* **[En Desarrollo] API REST de Gestión de Agenda de Consultas en Centro de Terapias:**
+    * Descripción: API RESTful construida con Spring Boot y Java para gestionar consultas y a Centro de Terapias , conectada a una BBDD 
 * **Prácticas en ZAITEC (Marzo-Junio 2025):**
     * Descripción: Participación en el desarrollo de una APP de gestión comercial. Mi trabajo se centró en el Backend (Java), creando scripts, métodos y realizando la conexión con la Base de Datos Oracle.
 
