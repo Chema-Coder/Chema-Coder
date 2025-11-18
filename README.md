@@ -42,7 +42,7 @@ Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamen
 * **[En Desarrollo] Retail Order Manager API:**
     * *Descripción:* API RESTful (Java + Spring Boot) diseñada para optimizar la gestión de pedidos en comercios minoristas.
     * *Reto de Negocio:* Implementa lógica compleja para gestionar **restricciones de proveedores**, calculando automáticamente cuándo se alcanza el **importe mínimo de pedido** exigido para lanzar la compra.
-    * *Tech:* Java | Spring Boot | JPA | MySQL.
+    * *Tech:* Java | Spring Boot | JPA | PostgreSQL.
 
 * **WP-Roadmap-Generator:**
     * *Descripción:* Script en Bash para Linux que audita el frontend de un sitio WordPress (detecta themes/plugins) y genera una hoja de ruta técnica para su migración o recreación.
