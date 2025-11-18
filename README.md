@@ -37,13 +37,19 @@ Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamen
 
 ### Proyectos Destacados 🚀
 
-* **[WP-Roadmap-Generator](https://github.com/Chema-Coder/WP-Roadmap-Generator):** Script en Bash que analiza el frontend de un sitio WordPress (theme, plugins) y genera una Hoja de Ruta técnica para su posible recreación o migración.
+### Proyectos Destacados 🚀
 
-*(Más proyectos próximamente...)*
-* **[En Desarrollo] API REST de Gestión de Agenda de Consultas en Centro de Terapias:**
-    * Descripción: API RESTful construida con Spring Boot y Java para gestionar consultas, altas y anulaciones de visitas a Centro de Terapias , conectada a una BBDD 
+* **[En Desarrollo] Retail Order Manager API:**
+    * *Descripción:* API RESTful (Java + Spring Boot) diseñada para optimizar la gestión de pedidos en comercios minoristas.
+    * *Reto de Negocio:* Implementa lógica compleja para gestionar **restricciones de proveedores**, calculando automáticamente cuándo se alcanza el **importe mínimo de pedido** exigido para lanzar la compra.
+    * *Tech:* Java | Spring Boot | JPA | MySQL.
+
+* **WP-Roadmap-Generator:**
+    * *Descripción:* Script en Bash para Linux que audita el frontend de un sitio WordPress (detecta themes/plugins) y genera una hoja de ruta técnica para su migración o recreación.
+    * *Link:* [Ver Repositorio](https://github.com/Chema-Coder/WP-Roadmap-Generator)
+
 * **Prácticas en ZAITEC (Marzo-Junio 2025):**
-    * Descripción: Participación en el desarrollo de una APP de gestión comercial. Mi trabajo se centró en el Backend (Java), creando scripts, métodos y realizando la conexión con la Base de Datos Oracle.
+    * *Descripción:* Desarrollo Backend (Java) para una APP de gestión comercial, creando scripts y conectando con BBDD Oracle.
 
 ---
 
