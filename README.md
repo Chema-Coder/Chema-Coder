@@ -6,54 +6,45 @@
 
 ### Sobre mí 👨‍💻
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), recién titulado (Junio 2025) y enfocado en una transición de carrera hacia el desarrollo de software.
+Soy **Desarrollador Java Backend** con una clara orientación hacia la **Arquitectura Cloud (Microsoft Azure)**. Mi objetivo no es solo "picar código", sino diseñar, construir y desplegar soluciones escalables que resuelvan problemas reales.
 
-Mi objetivo principal es el Desarrollo Backend (Java/Spring Boot), pero con una visión Full Stack (Angular/React).
+**Mi valor diferencial es mi trayectoria:** No soy un perfil tradicional. Aporto la frescura técnica en código limpio y APIs REST, respaldada por **20 años de experiencia profesional** en administración, finanzas, operaciones y gestión de producción. Entiendo la "visión de negocio" desde dentro (he trabajado con ERPs como SAP y Salesforce) y hablo el idioma de la empresa y la rentabilidad.
 
-¿Mi valor diferencial? Combino estas nuevas competencias técnicas con 20 años de experiencia profesional en administración, finanzas, RRHH y gestión de producción. Entiendo la "visión de negocio" (he trabajado con SAP y Salesforce) y sé cómo construir soluciones que aportan valor real.
-
-Soy un entusiasta de Linux y la Ciberseguridad, y estoy complementando activamente mi formación en este campo. Estoy buscando mi primera gran oportunidad para aportar esta combinación única de madurez profesional y pasión técnica.
+Haber liderado equipos me da una madurez que marca la diferencia: entiendo la presión, gestiono prioridades con total autonomía y sé que la "deuda técnica" cuesta dinero.
 
 ---
 
 ### Mi Stack Tecnológico 🛠️
 
-* **Backend:** Java | Spring Boot
-* **Frontend:** Angular | React | JavaScript | Typescript | HTML5 | CSS3
-* **Bases de Datos:** SQL (MySQL, Oracle) | NoSQL (MongoDB, Firebase)
-* **Herramientas y Metodologías:** Git | GitHub | Jira
-* **Sistemas y Plataformas:** Linux | Salesforce | SAP (iniciado)
+* **Backend:** Java | Spring Boot | APIs REST | Clean Code
+* **Cloud & Infraestructura:** Microsoft Azure | Bash Scripting | Linux (Debian)
+* **Bases de Datos:** PostgreSQL | Oracle | SQL relacional
+* **Herramientas y Metodologías:** Git | GitHub | Jira | Metodologías Ágiles | AI-Assisted Dev
 
 ---
 
-### Aprendizaje Activo 🌱
+### Certificaciones y Roadmap Cloud ☁️
 
-* Finalizando la Certificación CISCO Básica de Redes.
-* Cursando la Certificación Cisco Certified Support Technician – CCST Cybersecurity.
-* Participando activamente en la JSCAMP de Infojobs por midu.dev.
-* Desarrollando mi primer portfolio de proyectos Backend con Spring Boot.
+Actualmente inmerso en la certificación oficial **Microsoft Azure Solutions Architect Expert**:
+* ✅ **Infraestructura Completada:** AZ-900 (Fundamentals) y AZ-104 (Administrator).
+* ⏳ **Diseño y DevOps (En curso):** AZ-305 (Infrastructure Solutions) y AZ-400 (DevOps).
 
 ---
 
 ### Proyectos Destacados 🚀
 
-### Proyectos Destacados 🚀
-
-* **[En Desarrollo] Retail Order Manager API:**
-    * *Descripción:* API RESTful (Java + Spring Boot) diseñada para optimizar la gestión de pedidos en comercios minoristas.
-    * *Reto de Negocio:* Implementa lógica compleja para gestionar **restricciones de proveedores**, calculando automáticamente cuándo se alcanza el **importe mínimo de pedido** exigido para lanzar la compra.
+* **[Completado] Retail Order Manager API:**
+    * *Descripción:* Desarrollo completo desde cero de una API REST escalable (Java + Spring Boot) para la gestión de pedidos.
+    * *Lógica de Negocio:* Implementación de restricciones de proveedores y cálculo automático de stock/pedidos mínimos. Arquitectura multicapa, documentada y testeada.
     * *Tech:* Java | Spring Boot | JPA | PostgreSQL.
+    * *Link:* [Ver Repositorio de la API](https://github.com/Chema-Coder/gestion-pedidos-api) *(Nota: Asegúrate de que este enlace apunta a la URL real de tu repo)*.
 
 * **WP-Roadmap-Generator:**
-    * *Descripción:* Script en Bash para Linux que audita el frontend de un sitio WordPress (detecta themes/plugins) y genera una hoja de ruta técnica para su migración o recreación.
+    * *Descripción:* Herramienta de auditoría automatizada en Bash Scripting para Linux. Analiza el frontend de sitios web, detecta tecnologías y genera hojas de ruta técnicas para migraciones.
     * *Link:* [Ver Repositorio](https://github.com/Chema-Coder/WP-Roadmap-Generator)
-
-* **Prácticas en ZAITEC (Marzo-Junio 2025):**
-    * *Descripción:* Desarrollo Backend (Java) para una APP de gestión comercial, creando scripts y conectando con BBDD Oracle.
 
 ---
 
-### ¿Conectamos? 📫
+### Experiencia Tech Destacada 💼
 
-* **LinkedIn:** [https://www.linkedin.com/in/josé-maría-valdivieso-a4b03b2ab/](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-valdivieso-a4b03b2ab/)
-* **Email:** [dragoncoredeveloper@gmail.com](mailto:dragoncoredeveloper@gmail.com)
+* **Desarrollo Backend Java (ZAITEC | 2025):** * Desarrollo Backend para una aplicación de gestión comercial y de rutas empresariales. Creación de scripts, métodos en Java y optimización de consultas complejas contra bases de datos **Oracle**.
