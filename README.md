@@ -47,4 +47,4 @@ Actualmente inmerso en la certificación oficial **Microsoft Azure Solutions Arc
 
 ### Experiencia Tech Destacada 💼
 
-* **Desarrollo Backend Java (ZAITEC | 2025):** * Desarrollo Backend para una aplicación de gestión comercial y de rutas empresariales. Creación de scripts, métodos en Java y optimización de consultas complejas contra bases de datos **Oracle**.
+* **Desarrollo Backend Java (ZAITEC | 2025):**  Desarrollo Backend para una aplicación de gestión comercial y de rutas empresariales. Creación de scripts, métodos en Java y optimización de consultas complejas contra bases de datos **Oracle**.
