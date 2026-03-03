@@ -37,7 +37,7 @@ Actualmente inmerso en la certificación oficial **Microsoft Azure Solutions Arc
     * *Descripción:* Desarrollo completo desde cero de una API REST escalable (Java + Spring Boot) para la gestión de pedidos.
     * *Lógica de Negocio:* Implementación de restricciones de proveedores y cálculo automático de stock/pedidos mínimos. Arquitectura multicapa, documentada y testeada.
     * *Tech:* Java | Spring Boot | JPA | PostgreSQL.
-    * *Link:* [Ver Repositorio de la API](https://github.com/Chema-Coder/gestion-pedidos-api) *(Nota: Asegúrate de que este enlace apunta a la URL real de tu repo)*.
+    * *Link:* [Ver Repositorio de la API](https://github.com/Chema-Coder/gestion-pedidos-api).
 
 * **WP-Roadmap-Generator:**
     * *Descripción:* Herramienta de auditoría automatizada en Bash Scripting para Linux. Analiza el frontend de sitios web, detecta tecnologías y genera hojas de ruta técnicas para migraciones.
