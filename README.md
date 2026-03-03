@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy José María Valdivieso
 
-[![Mi perfil de LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-valdivieso-a4b03b2ab/)
+[![Mi perfil de LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-valdivieso/)
 
 ---
 
